@@ -27,6 +27,24 @@
 
     <publicationYear>2022</publicationYear>
 
+    <subjects> 
+        <subject>Big Data</subject> 
+        <subject>Academic Libraries</subject> 
+        <subject>Information Retrieval</subject> 
+        <subject>Data Pre-Filtering</subject> 
+        <subject>Multi-Campus Studies</subject> 
+    </subjects>
+
+    <contributors> 
+        <contributor contributorType="DataCurator"> 
+            <contributorName>Soulaiman, Hanan</contributorName> 
+            <givenName>Hanan</givenName> 
+            <familyName>Soulaiman</familyName> 
+        </contributor> 
+    </contributors> 
+
+    <language>en</language>
+
     <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
 
     <rightsList>
@@ -35,6 +53,6 @@
         </rights>
     </rightsList>
 
-    <language>en</language>
+
 
 </resource>
