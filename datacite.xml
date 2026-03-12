@@ -47,6 +47,12 @@
 
     <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
 
+    <descriptions>
+    	<description descriptionType="Abstract">
+        This dataset contains search interaction logs collected across 24 campuses within the California State University system for a multi-campus study examining how pre-filtering affects user search behavior in academic library discovery systems.
+    	</description>
+    </descriptions>
+
     <rightsList>
         <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">
             Creative Commons Attribution 4.0 International (CC BY 4.0)
