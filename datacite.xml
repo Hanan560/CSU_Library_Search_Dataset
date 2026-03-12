@@ -27,30 +27,33 @@
 
     <publicationYear>2022</publicationYear>
 
-    <subjects> 
-        <subject>Library Discovery Systems</subject> 
-        <subject>Academic Libraries</subject> 
-        <subject>Search Behavior</subject> 
-        <subject>User Interaction Logs</subject> 
-        <subject>Multi-Campus Studies</subject> 
+    <subjects>
+        <subject>Library Discovery Systems</subject>
+        <subject>Academic Libraries</subject>
+        <subject>Search Behavior</subject>
+        <subject>User Interaction Logs</subject>
+        <subject>Multi-Campus Studies</subject>
     </subjects>
 
-    <contributors> 
-        <contributor contributorType="DataCurator"> 
-            <contributorName>Soulaiman, Hanan</contributorName> 
-            <givenName>Hanan</givenName> 
-            <familyName>Soulaiman</familyName> 
-        </contributor> 
-    </contributors> 
+    <contributors>
+        <contributor contributorType="DataCurator">
+            <contributorName>Soulaiman, Hanan</contributorName>
+            <givenName>Hanan</givenName>
+            <familyName>Soulaiman</familyName>
+        </contributor>
+    </contributors>
 
     <language>en</language>
 
     <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
 
     <descriptions>
-    	<description descriptionType="Abstract">
-        This dataset contains search interaction logs collected across 24 campuses within the California State University system for a multi-campus study examining how pre-filtering affects user search behavior in academic library discovery systems.
-    	</description>
+        <description descriptionType="Abstract">
+            This dataset contains search interaction logs collected across
+            24 campuses within the California State University system for a
+            multi-campus study examining how pre-filtering affects user
+            search behavior in academic library discovery systems.
+        </description>
     </descriptions>
 
     <rightsList>
@@ -58,4 +61,5 @@
             Creative Commons Attribution 4.0 International (CC BY 4.0)
         </rights>
     </rightsList>
+
 </resource>
